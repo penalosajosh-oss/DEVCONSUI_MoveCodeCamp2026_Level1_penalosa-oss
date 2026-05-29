@@ -3,4 +3,10 @@
 # This file SHOULD be committed to source control
 
 [published.mainnet]
-
+chain-id = "35834a8a"
+published-at = "0x55e884451cffa895ffdb28462028546421c9e91c01b435d2bfd82c2500185c7d"
+original-id = "0x55e884451cffa895ffdb28462028546421c9e91c01b435d2bfd82c2500185c7d"
+version = 1
+toolchain-version = "1.73.0"
+build-config = { flavor = "sui", edition = "2024" }
+upgrade-capability = "0xf33d8eeb3d449a7d47a8d23f5bd7c0337216c5a2b54d96d731f5b0ad66db1e2e"
